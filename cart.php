@@ -146,5 +146,4 @@ if(isset($_GET['checkout']) && $cart->num_rows > 0) {
     </footer>
 </div>
 </body>
-
 </html>
